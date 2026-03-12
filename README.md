@@ -14,4 +14,4 @@
 * **As a** regular user,
 * **I want to** view a list of all available books in the library and search through them,
 * **so that** I can easily find and choose the next book I want to read.
-* **Team Leader Furkan Dereli
+* Team Leader Furkan Dereli
