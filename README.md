@@ -1,8 +1,9 @@
 ## Project Features (User Stories)
 ## Team: BookTech Solutions
-* Furkan Dereli - furkandereli09@gmail.com
+* Furkan Dereli - furkandereli098@gmail.com
 * Ömer Kavak - omerokul16@gmail.com
-
+* Team Leader Furkan Dereli
+  
 **1. Secure Access & User Profiles**
 * **As a** regular user,
 * **I want to** securely register for an account and log in using my credentials,
@@ -17,4 +18,4 @@
 * **As a** regular user,
 * **I want to** view a list of all available books in the library and search through them,
 * **so that** I can easily find and choose the next book I want to read.
-* Team Leader Furkan Dereli
+
