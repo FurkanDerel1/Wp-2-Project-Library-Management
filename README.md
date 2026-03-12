@@ -2,7 +2,6 @@
 ## Team: BookTech Solutions
 * Furkan Dereli - furkandereli098@gmail.com
 * Ömer Kavak - omerokul16@gmail.com
-* Team Leader Furkan Dereli
   
 **1. Secure Access & User Profiles**
 * **As a** regular user,
